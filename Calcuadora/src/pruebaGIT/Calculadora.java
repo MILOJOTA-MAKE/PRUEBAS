@@ -12,6 +12,9 @@ public class Calculadora {
 		System.out.println("Suma = "+suma);
 		System.out.println("Resta = "+resta);
 		System.out.println("Multiplicar = "+multiplicacion);
+		System.out.println("Otra vez");
+		System.out.println("Cualquiera ");
+		//sSystem.out.println();
 	}
 	public static int SUMAR(int n1, int n2) {
 		return n1+n2;
